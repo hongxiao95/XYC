@@ -4,7 +4,7 @@
 ******
 
 ### 1. 开始
-1. 会安装IDE，可以根据操作系统选择合适的IDE
+1. 会安装IDE，可以根据操作系统选择合适的IDE [点此查看如何使用XCode写C语言程序](http://blog.csdn.net/CHENYUFENG1991/article/details/47382167)
 2. 会写Hello World
 3. 会调试
 
