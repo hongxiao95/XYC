@@ -7,7 +7,7 @@
 + 相关链接
     + [Mac - 如何使用XCode写C语言程序](http://blog.csdn.net/CHENYUFENG1991/article/details/47382167)
     + [Windows - Visual Studio 2017 社区版 下载链接（复制链接地址到迅雷里）](ed2k://\|file\|mu_visual_studio_community_2017_version_15.3_x86_x64_11100062.exe\|1069960\|5984B3CD547F9F213DE21EFE5887F08D\|/)
-        + 也可以到 http://msdn.itellyou.cn 下载安装，在 开发人员工具 目录里，这个网站是个人收集的微软软件集锦，并非官方网址。但内容基本可靠。官方网站好像并不提供完整的安装包链接，而是在线安装的，对于网速不快的任来说很不方便。
+        + 也可以到[MSDN 我告诉你](http://msdn.itellyou.cn) 下载安装，在 开发人员工具 目录里，这个网站是个人收集的微软软件集锦，并非官方网址。但内容基本可靠。官方网站好像并不提供完整的安装包链接，而是在线安装的，对于网速不快的任来说很不方便。
     + 下载下来解压后安装，记得安装需要的模块时，勾选 C/C++ 桌面开发 和 .net开发。
 2. 会写Hello World
     + [VS 2017 C语言写Hello World](http://blog.csdn.net/qq_39561376/article/details/76168987)
