@@ -6,9 +6,10 @@
 1. 会安装IDE，可以根据操作系统选择合适的IDE 
 + 相关链接
     + [Mac - 如何使用XCode写C语言程序](http://blog.csdn.net/CHENYUFENG1991/article/details/47382167)
-    + [Windows - Visual Studio 2017 社区版 下载链接（复制链接地址到迅雷里）]("ed2k://|file|mu_visual_studio_community_2017_version_15.3_x86_x64_11100062.exe|1069960|5984B3CD547F9F213DE21EFE5887F08D|/")
+    + [Windows - Visual Studio 2015 社区版 下载链接（复制链接地址到迅雷里）]("ed2k://|file|en_visual_studio_community_2015_with_update_3_x86_x64_dvd_8923300.iso|7617847296|AC962389EB54AF93431568804CB10875|/")
         + 也可以到[MSDN 我告诉你](http://msdn.itellyou.cn) 下载安装，在 开发人员工具 目录里，这个网站是个人收集的微软软件集锦，并非官方网址。但内容基本可靠。官方网站好像并不提供完整的安装包链接，而是在线安装的，对于网速不快的任来说很不方便。
-    + 下载下来解压后安装，记得安装需要的模块时，勾选 C/C++ 桌面开发 和 .net开发。
+        + VS 2017，官方和MSDN 我告诉你 都没有提供完整安装包，如果网速不好的话，安装可能非常慢。[官方下载地址点此](https://www.visualstudio.com/zh-hans/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+    + 下载下来解压后安装，记得安装需要的模块时，勾选 C/C++ 桌面开发 和 .net开发。有问题随时问我。
 2. 会写Hello World
     + [VS 2017 C语言写Hello World](http://blog.csdn.net/qq_39561376/article/details/76168987)
 3. 会调试
